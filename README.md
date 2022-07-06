@@ -28,7 +28,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Face Unwell](#face-unwell)
 - [Face Hat](#face-hat)
 - [Face Glasses](#face-glasses)
-- [Face Concerned](#face-concerned)
+- [Face Concerned](#fadce-concerned)
 - [Face Negative](#face-negative)
 - [Face Costume](#face-costume)
 - [Cat Face](#cat-face)
